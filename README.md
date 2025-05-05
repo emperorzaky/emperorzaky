@@ -1,23 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Zaky 👋</h1>
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-####### H7
-<!--
-**emperorzaky/emperorzaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Team+Leader+of+Engineering+at+PLN;RNN-LSTM+Developer+%F0%9F%9A%80;LOADPRO+Project+Owner;Enthusiast+of+JKT48%2C+AI%2C+and+Automation&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔌 Team Leader Engineering at **PLN - ULP Pacet**
+- ⚡ Developer of **LOADPRO**, a power load prediction AI using RNN-LSTM + PSO
+- 🎓 Alumni of **Politeknik Negeri Ujung Pandang (D4 Teknik Elektro)**
+- 🎯 Focused on **power automation**, **AI integration**, and **energy optimization**
+- 🎤 Big fan of **JKT48**, especially Melody Nurramdhani Laksani and Jesslyn Elly Septiani 💙
+
+---
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-orange?logo=Mathworks)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
+![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?logo=streamlit)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emperorzaky&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emperorzaky&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
+
+---
+
+### 🎯 Projects Highlight
+
+- [LOADPRO](https://github.com/emperorzaky/loadpro) – AI untuk prediksi beban puncak penyulang berbasis RNN-LSTM
+- [WA Blasting Automation](#) – sistem otomatisasi notifikasi pelanggan PLN via WhatsApp
+- [UP3M Dashboard](#) – Web dashboard internal untuk monitoring struktur organisasi PLN UP3
+
+---
+
+### ☕ Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaky%20-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakypradikto)
+[![Gmail](https://img.shields.io/badge/Gmail-emperorzaky%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zakypradikto@gmail.com)
