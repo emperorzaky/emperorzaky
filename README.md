@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🔌 Team Leader Engineering at **PLN - ULP Pacet**
-- ⚡ Developer of **LOADPRO**, a power load prediction AI using RNN-LSTM + PSO
+- ⚡ The one n only Developer of **LOADPRO**, a power load prediction AI using RNN-LSTM + PSO
 - 🎓 Alumni of **Politeknik Negeri Ujung Pandang (D4 Teknik Elektro)**
 - 🎯 Focused on **power automation**, **AI integration**, and **energy optimization**
 - 🎤 Big fan of **JKT48**, especially Melody Nurramdhani Laksani and Jesslyn Elly Septiani 💙
