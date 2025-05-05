@@ -8,10 +8,12 @@
 
 ### 👨‍💻 About Me
 
+- 🧠 I'm just a script kiddie not a professional programmer, just someone who enjoys learning, experimenting, and building things with code.
+- 🤝 Open to collaboration, study groups, or just sharing ideas in AI, electrical systems, or anything meaningful.
 - 🔌 Team Leader Engineering at **PLN - ULP Pacet**
 - ⚡ The one n only Developer of **LOADPRO**, a power load prediction AI using RNN-LSTM + PSO
 - 🎓 Alumni of **Politeknik Negeri Ujung Pandang (D4 Teknik Elektro)**
-- 🎯 Focused on **power automation**, **AI integration**, and **energy optimization**
+- 🎯 Focused on ~power automation, AI integration, and energy optimization~ **FUN**, **JOY** and **HAPPINESS**
 - 🎤 Big fan of **JKT48**, especially Melody Nurramdhani Laksani and Jesslyn Elly Septiani 💙
 
 ---
