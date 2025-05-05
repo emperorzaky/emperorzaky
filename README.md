@@ -40,8 +40,7 @@
 ### 🎯 Projects Highlight
 
 - [LOADPRO](https://github.com/emperorzaky/loadpro) – AI untuk prediksi beban puncak penyulang berbasis RNN-LSTM
-- [WA Blasting Automation](#) – sistem otomatisasi notifikasi pelanggan PLN via WhatsApp
-- [UP3M Dashboard](#) – Web dashboard internal untuk monitoring struktur organisasi PLN UP3
+- ~[WA Blasting Automation](#) – sistem otomatisasi notifikasi pelanggan PLN via WhatsApp~
 
 ---
 
