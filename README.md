@@ -47,5 +47,5 @@
 
 ### ☕ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaky%20-%230077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakypradikto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaky%20-%230077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/zakypradikto](https://www.linkedin.com/in/zaky-pradikto-970773a4/))
 [![Gmail](https://img.shields.io/badge/Gmail-emperorzaky%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zakypradikto@gmail.com)
