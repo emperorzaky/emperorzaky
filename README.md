@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zaky 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=TTeam+Leader+of+Engineering+at+PLN+ULP+PACET;Currently+playing+with+Machine+Learning+%F0%9F%9A%80;LOADPRO+Project+Owner;Enthusiast+of+JKT48%2C+AI%2C+and+Automation&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Team+Leader+of+Engineering+at+PLN+ULP+PACET;Currently+playing+with+Machine+Learning+%F0%9F%9A%80;LOADPRO+Project+Owner;Enthusiast+of+JKT48%2C+AI%2C+and+Automation&center=true&width=500&height=45">
 </p>
 
 ---
